@@ -1,0 +1,72 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\block.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bomb.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_back.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_front.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_gameover.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_left.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_right.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\rose_block.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\mon1_back.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\mon1_front.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\eksplozija.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_left.jpg
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_right.jpg
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_left.gif
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_right.gif
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\poklon.png
+C:\Users\38599\Desktop\C# vjezbe\BOMBERGIRL-projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\block.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bomb.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_back.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_front.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_gameover.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_left.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\bombergirl_right.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\eksplozija.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\mon1_back.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\mon1_front.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\poklon.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\rose_block.png
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_left.gif
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_left.jpg
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_right.gif
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\sprites\spider_right.jpg
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.SuggestedBindingRedirects.cache
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\krsti\OneDrive\Dokumenti\Đana's junk\Đana's junk git\Bombergirl - dokumentacija i projekt\bombergirl_projekt\bombergirl\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
